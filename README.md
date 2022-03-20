@@ -9,7 +9,7 @@ I thought it might be usefull for some other people, I decided to just collect t
 
 * [AS5600 12-bit Absolute Encoder](AS5600/README.md)
 * [CJMCU MPU-925x IMU](CJMCU-925x/README.md)
-* [MPU6050](MPU6050/README.md)
+* [MPU6050 IMU](MPU6050/README.md)
 
 ## Warnings and Limitations
 
