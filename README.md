@@ -19,7 +19,7 @@ You're free to use to anything you want (even producing those boards here and se
 
 * I haven't tested any of those designs
 * They're made for generating STEP files and not GERBER files
-* You will not blame me if something doesn't work as expected
+* You will not blame me or anyone that contributed to this repository if something doesn't work as expected
 
 
 ## Contributing
